@@ -1,4 +1,4 @@
-### Notes and example of scripting in particular language
+### Notes and example of scripting
 
 + [bash][bash]
 + [markdown][markdown]
