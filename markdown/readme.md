@@ -8,7 +8,6 @@ Markdown is a text format and conversion tool for people who write documents.
   + Easy to parse, export to web or pdf.
   + .md extension.
   + Renders to html. 
-  + stackedit.io Online markdown editor. 
 
  ## Basics
 
