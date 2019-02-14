@@ -6,8 +6,8 @@
 + [regex][regex]
 + [vim][vim]
 
-[bash]: "/bash/readme.md"
-[markdown]: "/markdown/readme.md"
-[python]: "/python/readme.md"
-[regex]: "/regex/readme.md"
-[vim]: "/vim/readme.md"
+[bash]: "bash/readme.md"
+[markdown]: "markdown/readme.md"
+[python]: "python/readme.md"
+[regex]: "regex/readme.md"
+[vim]: "vim/readme.md"
