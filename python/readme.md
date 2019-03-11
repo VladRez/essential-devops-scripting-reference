@@ -47,7 +47,7 @@
 
 ```python
 
-for item in list:
+for item in items:
 	print(item)
 ```
 
@@ -57,11 +57,22 @@ for item in list:
 for i in range(0,5):
 	print(i)
 
+for item in range(0, len(items) - 1)
+	print(items[item])
 ```
 
 + Looping a slice
 
 ```python
-for i in list[2:10]:
-	print(i)
+# print from index 2 to 10
+for item in items[2:10]:
+	print(item)
+
+# If the total length is unknown
+for item in items[2:]:
+	print (item)
+
+# Limit iteration
+for item in items[:10]:
+	print (item)
 ```
