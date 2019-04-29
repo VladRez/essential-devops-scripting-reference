@@ -27,12 +27,8 @@ Markdown is a text format and conversion tool for people who write documents.
 
 ### headlines
 
-C text
 + `===` under text renders headline 1 `<h1>`
 + `---` under text renders headline 2 `<h2>`
-
-ATX
-
 + `# Headline` h1
 + `## Headline` h2
 + `### Headline` h3
