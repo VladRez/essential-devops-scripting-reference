@@ -41,7 +41,7 @@ Markdown is a text format and conversion tool for people who write documents.
 
 ### Horizontal rules
 
-+ `---`/`___`/`***` reders `hr`
++ `---`/`___`/`***` renders `hr`
 
 
 ### Unordered Lists
