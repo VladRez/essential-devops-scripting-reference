@@ -128,7 +128,7 @@ All start with `d` followed by a command.
 + `d/pattern` - Delete everything until pattern forward.
 + `d?pattern` - Delete everything until pattern backwards. 
 
-## Visaul Mode
+## Visual Mode
 
 Hit `v` enter into visual mode, `--VISUAL--` will appear at the botton of vim.
 
